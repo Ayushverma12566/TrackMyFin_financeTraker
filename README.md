@@ -61,7 +61,7 @@ Install these first:
 ## 2) Clone This Repository
 
 ```bash
-git clone https://github.com/Sabir7869/Fintech.git
+git clone https://github.com/AyushVerma12566/Fintech.git
 cd Fintech
 ```
 
